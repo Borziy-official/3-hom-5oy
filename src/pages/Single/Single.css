@@ -1,0 +1,35 @@
+.single-wraper {
+    padding: 50px 0;
+    display: flex;
+    align-items: start;
+    justify-content: flex-start;
+}
+
+.single-img {
+    width: 400px;
+    object-fit: cover;
+    height: 500px;
+    border-radius: 8px;
+}
+
+.single-info {
+    padding: 0 40px;
+    width: 400px;
+}
+
+.single-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.single-desc {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.sigle-ins {
+    font-weight: bold;
+    font-size: 20px;
+}
